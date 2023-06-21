@@ -62,7 +62,7 @@ Here are some ideas to get you started:
         <img src="https://img.icons8.com/color/48/000000/html-5.png">
     </td>
        <td align='center'  width="100">
-        <img src="https://super-static-assets.s3.amazonaws.com/e7c0f16c-8bd3-4c76-8075-4c86f986e1b2/uploads/favicon/9c68ae10-0a8a-4e3f-9084-3625b19df9cb.png">
+        <img width="50" src="https://super-static-assets.s3.amazonaws.com/e7c0f16c-8bd3-4c76-8075-4c86f986e1b2/uploads/favicon/9c68ae10-0a8a-4e3f-9084-3625b19df9cb.png">
     </td>
       <td align='center' width="100">
         <img src="https://img.icons8.com/color/48/000000/magento.png">
@@ -79,10 +79,10 @@ Here are some ideas to get you started:
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
     </td>
      <td align='center' width="100">
-        <img src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png">
+        <img width="50" src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png">
     </td> 
    <td align='center' width="100">
-        <img src="https://store-images.s-microsoft.com/image/apps.5460.13795821674373682.42a749e2-3ed9-43c6-88ec-0045278b4e49.7c939c07-5097-4a52-abd1-de0a42b889ba">
+        <img width="50" src="https://store-images.s-microsoft.com/image/apps.5460.13795821674373682.42a749e2-3ed9-43c6-88ec-0045278b4e49.7c939c07-5097-4a52-abd1-de0a42b889ba">
     </td>
     
 </tr> 
@@ -131,7 +131,7 @@ Here are some ideas to get you started:
         <img src="https://img.icons8.com/color/48/000000/graphql.png">
     </td>
     <td align='center' width="100">
-        <img src="https://cyclr.com/wp-content/uploads/2022/03/ext-544.png">
+        <img  width="50" src="https://cyclr.com/wp-content/uploads/2022/03/ext-544.png">
     </td>
      </tr>
     <tr>
@@ -139,10 +139,10 @@ Here are some ideas to get you started:
         <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png">
     </td> 
      <td align='center' width="100">
-        <img src="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png">
+        <img width="50" src="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png">
     </td>
     <td align='center'  width="100">
-        <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png">
+        <img width="50" src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png">
     </td>
       <td align='center'  width="100">
         <img src="https://img.icons8.com/color/48/000000/git.png">
