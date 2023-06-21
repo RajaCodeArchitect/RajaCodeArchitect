@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - Familiarity with `GitHub Actions` for seamless development workflows.
 - proficient in design tools like Adobe Suite (`XD`, `photoshop`, `Illustrator`, `After Effects`, `premiere pro`), `Canva`.
 - Highly motivated and detail-oriented professional
-- Experienced in working with Wordpress for content management.
+- Experienced in working with `Wordpress` `strapi` for content management.
 - Strong passion for technology and effective collaboration skills. 
 - Committed to delivering quality results and staying updated with industry trends.
 
@@ -181,6 +181,43 @@ Here are some ideas to get you started:
     </td>
 </tr> 
 </table>
+
+
+
+
+## Projects
+
+  ### Products
+- life sciences product (pharma)- `Confidential`
+- UI Global Components Development (pharma)-  `Confidential`
+- Klusternetes web app Development- `zelar product`
+- CRM - employee management - `IELTSguru`
+- Doccept - Document management system - `kensium solutions`
+- ATS Secured - Vendor management system - `kensium solutions`
+  
+-  `I actively participated in the development of the above projects, starting from scratch`
+
+### Mobile app and web portal
+- IELTS, PTE and GRE, Spoken English (Hybrid Mobile App Development) - `IELTSguru`
+- IELTS CDT (computer delivered test applications) - Online exam portal - `IELTSguru`
+- PracticePTE - Exam portal - `IELTSguru`
+- Filsoo - bedding system management - `TCIG`
+- Voyager by Najm - flight booking system `TCIG`
+- IELTSguru website - IELTSguru
+- Seon consulting - study aboard process app - IELTSguru 
+
+### E-commerce & Website Development 
+- E-commerce Development (Magento) - `ZEB - Fashion e-commerce`, `Pointcarre | Fashion e-commerce` - apoyar
+- E-commerce Magento Development (Magento)-  `Dekra-Lite`, `shoebacca` `Shoe Sensation`, `B-glowing`, `Rayallen`, `Silencershop`, - kensium solutions
+- Supportpod Freelance web portal development - `apoyar` 
+- wordpress Website Development -`zelar site` , `apoyar site`
+
+### User Experience 
+  `planning and sketching, wireframes and prototype`
+- Fitness app design
+- Exam portal - web and mobile app design
+- freelance app design
+- e-commerce design
 
 ## &nbsp; Statistics 
 
