@@ -45,10 +45,10 @@ Here are some ideas to get you started:
         <img src="https://img.icons8.com/color/48/000000/react-native.png">
     </td>
     <td align='center' width="100">
-        <img src="https://img.icons8.com/color/48/000000/react-native.png">
+        <img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png">
     </td>
      <td align='center' width="100">
-        <img width="55" src=" https://angular.io/assets/images/logos/angular/angular.png"> 
+        <img width="55" src="https://angular.io/assets/images/logos/angular/angular.png"> 
     </td>
 </tr>
 <tr> 
