@@ -99,7 +99,7 @@ Here are some ideas to get you started:
         <img src="https://img.icons8.com/color/48/000000/sass.png">
     </td>
      <td align='center' width="100">
-        <img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LESS_Logo.svg/1280px-LESS_Logo.svg.png">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LESS_Logo.svg/1280px-LESS_Logo.svg.png">
     </td>
     <td align='center'  width="100">
         <img src="https://img.icons8.com/color/48/000000/styled-components.png">
