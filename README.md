@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=40&duration=1500&pause=500&color=cyan&width=1000&height=70&lines=Namasthe!;Nice+to+Meet+you...%F0%9F%98%83%09;I'm+Rajashekhar+Adukani;Associate+Architect;A+Gateway+to+My+Digital+Realm;Welcome+to+My+GitHub+Oasis+👋)](https://www.linkedin.com/in/adukani/) 
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=40&duration=1500&pause=500&color=cyan&width=1000&height=70&lines=Namasthe!🙏;Nice+to+Meet+you...%F0%9F%98%83%09;I'm+Rajashekhar+Adukani😎;Associate+Architect👨‍💻;A+Gateway+to+My+Digital+Realm🌍;Welcome+to+My+GitHub+Oasis+👋)](https://www.linkedin.com/in/adukani/) 
 
 # [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=RajaCodeArchitect&data=followers,repositories,stars,commits&theme=nautilus)](https://www.linkedin.com/in/adukani/)
 
