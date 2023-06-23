@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 # A Gateway to My Digital Realm: Welcome to My GitHub Oasis👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=40&duration=1000&pause=500&color=cyan&width=700&&repeat=falselines&height=70&lines=Hey!;Nice+to+Meet+you...%F0%9F%98%83%09;I'm+Rajashekhar+Adukani;Associate+Architect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=40&duration=1500&pause=500&color=cyan&width=700&height=70&lines=Namasthe!;Nice+to+Meet+you...%F0%9F%98%83%09;I'm+Rajashekhar+Adukani;Associate+Architect)](https://git.io/typing-svg)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=RajaCodeArchitect&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
 <a href="https://www.linkedin.com/in/adukani/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="26"></a>
 
