@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 # A Gateway to My Digital Realm: Welcome to My GitHub Oasis👋
 
-## I'm Rajashekhar <a href="https://www.linkedin.com/in/adukani/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="20"></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=40&duration=1000&pause=500&color=cyan&width=700&&repeat=falselines&height=70&lines=Hey!;Nice+to+Meet+you...%F0%9F%98%83%09;I'm+Rajashekhar+Adukani;Associate+Architect)](https://git.io/typing-svg)
+
+<a href="https://www.linkedin.com/in/adukani/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="26"></a>
 
 - Over 11 years of experience as an `Associate Architect` and `Full Stack Developer`.
 - Specialize in `front-end development`, `UI/UX design`, and creating reusable component libraries.
@@ -211,6 +213,7 @@ Here are some ideas to get you started:
 - E-commerce Magento Development (Magento)-  `Dekra-Lite`, `shoebacca` `Shoe Sensation`, `B-glowing`, `Rayallen`, `Silencershop`, - kensium solutions
 - Supportpod Freelance web portal development - `apoyar` 
 - wordpress Website Development -`zelar site` , `apoyar site`
+- Cars buy and sell, maruti delar, Wordpress site - `Acer Motors` - `kensium`
 
 ### User Experience 
   `planning and sketching, wireframes and prototype`
@@ -218,6 +221,12 @@ Here are some ideas to get you started:
 - Exam portal - web and mobile app design
 - freelance app design
 - e-commerce design
+  
+ 
+
+<!-- [![RajaCodeArchitect's github stats](https://github-readme-stats.vercel.app/api?username=RajaCodeArchitect&theme=blue-green)](https://github.com/RajaCodeArchitect/github-readme-stats) -->
+
+ 
 
 ## &nbsp; Statistics 
 
