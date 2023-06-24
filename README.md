@@ -249,10 +249,6 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> freelance app design
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> e-commerce design
- 
- <img src="https://github.com/RajaCodeArchitect/RajaCodeArchitect/blob/main/Images/exam.png" alt="exam" width="650" />
- <img src="https://github.com/RajaCodeArchitect/RajaCodeArchitect/blob/main/Images/Health.png" alt="Health" width="650" />
- 
 
 
 <!--
