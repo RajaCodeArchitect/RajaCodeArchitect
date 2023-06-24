@@ -13,36 +13,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=40&duration=1500&pause=500&color=cyan&width=1000&height=70&lines=Namasthe!🙏;Nice+to+Meet+you...%F0%9F%98%83%09;I'm+Rajashekhar+Adukani😎;Associate+Architect👨‍💻;A+Gateway+to+My+Digital+Realm🌍;Welcome+to+My+GitHub+Oasis+👋)](https://www.linkedin.com/in/adukani/) 
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=40&duration=1500&pause=500&color=cyan&width=1000&height=70&lines=Namasthe!🙏;Nice+to+Meet+you...%F0%9F%98%83%09;I'm+Rajashekhar+Adukani😎;Associate+Architect👨‍💻;A+Gateway+to+My+Digital+Realm🌍;Welcome+to+My+GitHub+Oasis+👋)](https://www.linkedin.com/in/adukani/)
 
 # [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=RajaCodeArchitect&data=followers,repositories,stars,commits&theme=nautilus)](https://www.linkedin.com/in/adukani/)
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> Over 11 years of experience as an <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /> `Associate Architect` `Full Stack Developer` <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="20" height="20" /> .
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" />  Over 11 years of experience as an  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /> `Associate Architect`  `Full Stack Developer` <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="20" height="20" />  .
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> Specialize in `front-end development`, `UI/UX design`, and creating reusable component libraries.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" />  Specialize in `front-end development`, `UI/UX design`, and creating reusable component libraries.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> proficient in technologies like `TypeScript`, `React`, `React Native`, `JavaScript`, `Storybook`, `Angular`, `Angular Material`, and `Airbnb style guide`.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" />  proficient in technologies like `TypeScript`, `React`, `React Native`, `JavaScript`, `Storybook`, `Angular`, `Angular Material`, and `Airbnb style guide`.
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" />  Experienced in using tools like `ESLint`, `Sonar Lint`, `Node.js`, `Firebase`, `Power Apps`, `PCF`, `Dataverse`, `GraphQL`, `Microsoft Fluent UI`, `Styled-components`, `SCSS/LESS/CSS`, `puppeteer`, `HTML`, `jQuery`, and `Git`.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> Experienced in using tools like `ESLint`, `Sonar Lint`, `Node.js`, `Firebase`, `Power Apps`, `PCF`, `Dataverse`, `GraphQL`, `Microsoft Fluent UI`, `Styled-components`, `SCSS/LESS/CSS`, `puppeteer`, `HTML`, `jQuery`, and `Git`.
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> Skilled in `Magento 2` Front-end development and working with `Strapi` Headless CMS.
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> Familiarity with `GitHub Actions` for seamless development workflows.
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> proficient in design tools like Adobe Suite (`XD`, `photoshop`, `Illustrator`, `After Effects`, `premiere pro`), `Canva`.
-  
+
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> Highly motivated and detail-oriented professional
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> Experienced in working with `Wordpress` `strapi` for content management.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> Strong passion for technology and effective collaboration skills. 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> Strong passion for technology and effective collaboration skills.
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> Committed to delivering quality results and staying updated with industry trends.
 
-##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rainbow.png" alt="Rainbow" width="25" height="25" /> My Skills  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rainbow.png" alt="Rainbow" width="25" height="25" /> My Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> Recent skills  
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> Recent skills
+
 <table>
 <tr>
     <td align='center' width="100">
@@ -99,7 +99,7 @@ Here are some ideas to get you started:
  
 </table>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="25" height="25" /> Mastering Web and Mobile Styling 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="25" height="25" /> Mastering Web and Mobile Styling
 
  <table>
     <td align='center'  width="100">
@@ -122,7 +122,6 @@ Here are some ideas to get you started:
     </td>
 </tr> 
 </table>
-
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Magic%20Wand.png" alt="Magic Wand" width="25" height="25" /> Tools
 
@@ -163,7 +162,6 @@ Here are some ideas to get you started:
     </tr>
     </table>
 
-
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hamburger.png" alt="Hamburger" width="25" height="25" /> Design tools
 
 <table>
@@ -192,11 +190,32 @@ Here are some ideas to get you started:
 </tr> 
 </table>
 
+---
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" /> Projects
 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Loudspeaker.png" alt="Loudspeaker" width="25" height="25" /> I have Worked on below Products
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" /> Projects 
-  ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Loudspeaker.png" alt="Loudspeaker" width="25" height="25" /> Products
+![life sciences product](<https://img.shields.io/badge/Life%20Sciences%20Product%20|%20(Document%20Managment%20)%20-Pharma%20|%20Confidential-blue>)
+![UI Global Components Development](https://img.shields.io/badge/UI%20Global%20Components%20Development|%20-Pharma%20|%20Confidential-blue)
+![Klusternetes web app Development](https://img.shields.io/badge/Klusternetes%20Web%20App%20Development-ZelarSoft-blue)
+![Doccept](https://img.shields.io/badge/Doccept%20|%20Document%20Management%20System-Kensium%20Solution-yellow) ![ATS Secured](https://img.shields.io/badge/ATS%20Secured%20|%20Vendor%20Management%20System-Kensium%20Solution-yellow)
+![E-commerce Development](https://img.shields.io/badge/Shoebacca%20|%20Dekra%20Lite%20|%20Shoe%20Sensation%20|%20B%20glowing%20|%20Rayallen%20|%20Silencershop%20|%20E%20Commerce%20Development-Kensium%20Solution-yellow)
+![wordpress](https://img.shields.io/badge/Acer%20Motors%20|%20Cars%20buy%20and%20sell%20|%20Wordpress%20Site%20Development-Kensium%20Solution-yellow)
+![SpaceWorksCRM](https://img.shields.io/badge/Space%20Works%20CRM%20-IELTSguru-teal)
+![(Hybrid Mobile App Development](https://img.shields.io/badge/IELTS%20|%20PTE%20|%20GRE%20|%20Spoken%20English%20|%20Exam%20Portal%20Hybrid%20Mobile/Web%20App%20Development-IELTSguru-teal)
+![IELTS CDT](https://img.shields.io/badge/IELTS%20CDT%20(Computer%20Delivered%20Test)%20Practice%20Tests%20|%20Web%20App-IELTSguru-teal)
+![PracticePTE](https://img.shields.io/badge/PracticePTE%20|%20PTE%20Practice%20Tests%20|%20Web%20App-IELTSguru-teal)
+![Seon consulting](https://img.shields.io/badge/Seon%20Consulting%20|%20Study%20Aboard%20Process%20|%20Web%20App-IELTSguru-teal)
+![E-commerce Development](https://img.shields.io/badge/ZEB%20|%20Pointcarre%20|%20E%20Commerce%20Development-Apoyar-skyblue)
+![Supportpod Freelance web portal development](https://img.shields.io/badge/Supportpod%20Freelance%20web%20portal%20Development-Apoyar-skyblue)
+![wordpress](https://img.shields.io/badge/ZelarSoft%20|%20Apoyar%20|%20IELTSguru%20|%20Wordpress%20Site%20Development-:-blue)
+![FlightBookingSystem](https://img.shields.io/badge/Voyager%20by%20Najm%20|%20Flight%20Booking%20System%20Development-TCIG-blue) 
+![Filsoo](https://img.shields.io/badge/Filsoo%20|%20Bedding%20System%20Management-TCIG-blue)
+ 
+`I actively participated in the development of the above projects, starting from scratch`
+
+<!--
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" />  life sciences product (pharma)- `Confidential`
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" />  UI Global Components Development (pharma)-  `Confidential`
@@ -208,62 +227,62 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" />  Doccept - Document management system - `kensium solutions`
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" />  ATS Secured - Vendor management system - `kensium solutions`
-  
-  `I actively participated in the development of the above projects, starting from scratch`
-  
-  
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="25" height="25" /> Mobile app and web portal
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" />  IELTS, PTE and GRE, Spoken English (Hybrid Mobile App Development) - `IELTSguru`
+   -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" />  IELTS CDT (computer delivered test applications) - Online exam portal - `IELTSguru`
+<!-- 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="25" height="25" /> Mobile app and web portal -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" />  PracticePTE - Exam portal - `IELTSguru`
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" />  Filsoo - bedding system management - `TCIG`
+<!-- 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> IELTS, PTE and GRE, Spoken English (Hybrid Mobile App Development) - `IELTSguru`
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" />  Voyager by Najm - flight booking system `TCIG`
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> IELTS CDT (computer delivered test applications) - Online exam portal - `IELTSguru`
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" />  IELTSguru website - IELTSguru
- Seon consulting - study aboard process app - IELTSguru 
- 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> PracticePTE - Exam portal - `IELTSguru`
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Bags.png" alt="Shopping Bags" width="25" height="25" /> E-commerce & Website Development 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" />  E-commerce Development (Magento) - `ZEB - Fashion e-commerce`, `Pointcarre | Fashion e-commerce` - apoyar
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> Filsoo - bedding system management - `TCIG`
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" />  E-commerce Magento Development (Magento)-  `Dekra-Lite`, `shoebacca` `Shoe Sensation`, `B-glowing`, `Rayallen`, `Silencershop`, - kensium solutions
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> Voyager by Najm - flight booking system `TCIG`
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" />  Supportpod Freelance web portal development - `apoyar` 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> IELTSguru website - IELTSguru
+Seon consulting - study aboard process app - IELTSguru -->
+<!-- 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Bags.png" alt="Shopping Bags" width="25" height="25" /> E-commerce & Website Development
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" />  wordpress Website Development -`zelar site` , `apoyar site`
+  -->
+<!-- 
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" />  Cars buy and sell, maruti delar, Wordpress site - `Acer Motors` - `kensium`
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> E-commerce Development (Magento) - `ZEB - Fashion e-commerce`, `Pointcarre | Fashion e-commerce` - apoyar
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Artist.png" alt="Artist" width="25" height="25" /> User Experience 
-  `planning and sketching, wireframes and prototype`
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> E-commerce Magento Development (Magento)- `Dekra-Lite`, `shoebacca` `Shoe Sensation`, `B-glowing`, `Rayallen`, `Silencershop`, - kensium solutions
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" />   Fitness app design
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> Supportpod Freelance web portal development - `apoyar`
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" />  Exam portal - web and mobile app design
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> wordpress Website Development -`zelar site` , `apoyar site`
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" />  freelance app design
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> Cars buy and sell, maruti delar, Wordpress site - `Acer Motors` - `kensium`
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" />  e-commerce design
-  
- 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Artist.png" alt="Artist" width="25" height="25" /> User Experience
+
+`planning and sketching, wireframes and prototype`
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> Fitness app design
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> Exam portal - web and mobile app design
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> freelance app design
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> e-commerce design -->
 
 <!-- [![RajaCodeArchitect's github stats](https://github-readme-stats.vercel.app/api?username=RajaCodeArchitect&theme=blue-green)](https://github.com/RajaCodeArchitect/github-readme-stats) -->
 
- 
+## &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Statistics
 
-## &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Statistics 
-
-
-<br/> 
+<br/>
 
 <div align="center">
 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=RajaCodeArchitect&theme=dark&dates=00e673)
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=RajaCodeArchitect&theme=dark&dates=00e673)
 
 </div>
 
@@ -280,4 +299,4 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Peacock.png" alt="Peacock" width="100" height="100" />
 </p>
 
-# <p align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" alt="Slightly Smiling Face" width="30" height="30" /> Thank you for visiting my profile <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" height="30" />   </p>
+# <p align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" alt="Slightly Smiling Face" width="30" height="30" /> Thank you for visiting my profile <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" height="30" /> </p>
