@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> As an accomplished professional with 11+ years of experience, I have thrived as an `Associate Architect` and `Full Stack Developer`, specializing in `front-end development` and `UI/UX design`. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" />
 
-
-<!-- 
+<!--
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> Specialize in `front-end development`, `UI/UX design`, and creating reusable component libraries.
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> proficient in technologies like `TypeScript`, `React`, `React Native`, `JavaScript`, `Storybook`, `Angular`, `Angular Material`, and `Airbnb style guide`.
@@ -43,50 +42,72 @@ Here are some ideas to get you started:
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rainbow.png" alt="Rainbow" width="25" height="25" /> My Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
 
+![JavaScript](https://img.shields.io/badge/JavaScript-gray)
+![TypeScript](https://img.shields.io/badge/TypeScript-gray)
+![React](https://img.shields.io/badge/React-gray)
+![Magento2](https://img.shields.io/badge/Magento2-gray)
+![React Native](https://img.shields.io/badge/React%20Native-gray)
+![Angular](https://img.shields.io/badge/AngularJS-gray)
+![Angular](https://img.shields.io/badge/Angular-gray)
+![Storybook](https://img.shields.io/badge/Storybook-gray)
+![NodeJs](https://img.shields.io/badge/NodeJS-gray)
+![Express](https://img.shields.io/badge/Express-gray)
+![MongoDB](https://img.shields.io/badge/MongoDB-gray)
+![Firebase](https://img.shields.io/badge/firebase-gray)
+![PowerApps](https://img.shields.io/badge/PowerApps-gray)
+![strapi](https://img.shields.io/badge/strapi-gray)
+![Wordpress ](https://img.shields.io/badge/Wordpress-gray)
+![puppeteer](https://img.shields.io/badge/puppeteer-gray)
+![MicrosoftFluentUI](https://img.shields.io/badge/Microsoft%20Fluent%20UI-gray)
+![MaterialUI](https://img.shields.io/badge/Material%20UI-gray)
+![styled components](https://img.shields.io/badge/Styled%20Components-gray)
+![bootstrap](https://img.shields.io/badge/bootstrap-gray)
+![Angular Material](https://img.shields.io/badge/Angular&20Material-gray)
+![CSS](https://img.shields.io/badge/css-gray)
+![SCSS](https://img.shields.io/badge/SCSS-gray)
+![Less](https://img.shields.io/badge/less-gray)
+![HTML](https://img.shields.io/badge/html-gray)
+![git](https://img.shields.io/badge/git-gray)
+![ESLint](https://img.shields.io/badge/ESLint-gray)
+![SonarLint](https://img.shields.io/badge/SonarLint-gray)
+![AzureDevops](https://img.shields.io/badge/AzureDevops-gray)
+![reactQuery](https://img.shields.io/badge/ReactQuery-gray)
+![ReactHookForms](https://img.shields.io/badge/ReactHookForms-gray)
+![GithubActions](https://img.shields.io/badge/GithubActions-gray)
+![vsCode](https://img.shields.io/badge/vsCode-gray)
+![Airbnb style guide](https://img.shields.io/badge/Airbnb%20Style%20guide-gray)
 
-![JavaScript](<https://img.shields.io/badge/JavaScript-gray>)
-![TypeScript](<https://img.shields.io/badge/TypeScript-gray>)
-![React](<https://img.shields.io/badge/React-gray>)
-![Magento2](<https://img.shields.io/badge/Magento2-gray>)
-![React Native](<https://img.shields.io/badge/React%20Native-gray>)
-![Angular](<https://img.shields.io/badge/AngularJS-gray>)
-![Angular](<https://img.shields.io/badge/Angular-gray>)
-![Storybook](<https://img.shields.io/badge/Storybook-gray>)
-![NodeJs](<https://img.shields.io/badge/NodeJS-gray>)
-![Express](<https://img.shields.io/badge/Express-gray>)
-![MongoDB](<https://img.shields.io/badge/MongoDB-gray>)
-![Firebase](<https://img.shields.io/badge/firebase-gray>)
-![PowerApps](<https://img.shields.io/badge/PowerApps-gray>)
-![strapi](<https://img.shields.io/badge/strapi-gray>)
-![Wordpress ](<https://img.shields.io/badge/Wordpress-gray>)
-![puppeteer](<https://img.shields.io/badge/puppeteer-gray>)
-![MicrosoftFluentUI](<https://img.shields.io/badge/Microsoft%20Fluent%20UI-gray>)
-![MaterialUI](<https://img.shields.io/badge/Material%20UI-gray>)
-![styled components](<https://img.shields.io/badge/Styled%20Components-gray>)
-![bootstrap](<https://img.shields.io/badge/bootstrap-gray>)
-![Angular Material](<https://img.shields.io/badge/Angular&20Material-gray>)
-![CSS](<https://img.shields.io/badge/css-gray>)
-![SCSS](<https://img.shields.io/badge/SCSS-gray>)
-![Less](<https://img.shields.io/badge/less-gray>)
-![HTML](<https://img.shields.io/badge/html-gray>)
-![git](<https://img.shields.io/badge/git-gray>)
-![ESLint](<https://img.shields.io/badge/ESLint-gray>)
-![SonarLint](<https://img.shields.io/badge/SonarLint-gray>)
-![AzureDevops](<https://img.shields.io/badge/AzureDevops-gray>)
-![reactQuery](<https://img.shields.io/badge/ReactQuery-gray>)
-![ReactHookForms](<https://img.shields.io/badge/ReactHookForms-gray>)
-![GithubActions](<https://img.shields.io/badge/GithubActions-gray>)
-![vsCode](<https://img.shields.io/badge/vsCode-gray>)
-![Airbnb style guide](<https://img.shields.io/badge/Airbnb%20Style%20guide-gray>)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-gray)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-gray)
+![Adobe illustrator](https://img.shields.io/badge/Adobe%20illustrator-gray)
+![Adobe PremierPro](https://img.shields.io/badge/Adobe%20Premier%20pro-gray)
+![Adobe after effects](https://img.shields.io/badge/Adobe%20After%20effects-gray)
+![Canva](https://img.shields.io/badge/Canva-gray)
+![cinema 4d](https://img.shields.io/badge/cinema%204D-gray)
 
-![Adobe XD](<https://img.shields.io/badge/Adobe%20XD-gray>)
-![Adobe Photoshop](<https://img.shields.io/badge/Adobe%20Photoshop-gray>)
-![Adobe illustrator](<https://img.shields.io/badge/Adobe%20illustrator-gray>)
-![Adobe PremierPro](<https://img.shields.io/badge/Adobe%20Premier%20pro-gray>)
-![Adobe after effects](<https://img.shields.io/badge/Adobe%20After%20effects-gray>)
-![Canva](<https://img.shields.io/badge/Canva-gray>)
-![cinema 4d](<https://img.shields.io/badge/cinema%204D-gray>)
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" /> Projects
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Loudspeaker.png" alt="Loudspeaker" width="25" height="25" /> Products I Have Worked On
+
+![life sciences product](<https://img.shields.io/badge/Life%20Sciences%20Product%20|%20(Document%20Managment%20)%20-Pharma%20|%20Confidential-blue>)
+![UI Global Components Development](https://img.shields.io/badge/UI%20Global%20Components%20Development|%20-Pharma%20|%20Confidential-blue)
+![Klusternetes web app Development](https://img.shields.io/badge/Klusternetes%20Web%20App%20Development-ZelarSoft-blue)
+![Doccept](https://img.shields.io/badge/Doccept%20|%20Document%20Management%20System-Kensium%20Solution-gray) ![ATS Secured](https://img.shields.io/badge/ATS%20Secured%20|%20Vendor%20Management%20System-Kensium%20Solution-gray)
+![E-commerce Development](https://img.shields.io/badge/Shoebacca%20|%20Dekra%20Lite%20|%20Shoe%20Sensation%20|%20B%20glowing%20|%20Rayallen%20|%20Silencershop%20|%20E%20Commerce%20Development-Kensium%20Solution-gray)
+![wordpress](https://img.shields.io/badge/Acer%20Motors%20|%20Cars%20buy%20and%20sell%20|%20Wordpress%20Site%20Development-Kensium%20Solution-gray)
+![SpaceWorksCRM](https://img.shields.io/badge/Space%20Works%20CRM%20-IELTSguru-teal)
+![(Hybrid Mobile App Development](https://img.shields.io/badge/IELTS%20|%20PTE%20|%20GRE%20|%20Spoken%20English%20|%20Exam%20Portal%20Hybrid%20Mobile/Web%20App%20Development-IELTSguru-teal)
+![IELTS CDT](<https://img.shields.io/badge/IELTS%20CDT%20(Computer%20Delivered%20Test)%20Practice%20Tests%20|%20Web%20App-IELTSguru-teal>)
+![PracticePTE](https://img.shields.io/badge/PracticePTE%20|%20PTE%20Practice%20Tests%20|%20Web%20App-IELTSguru-teal)
+![Seon consulting](https://img.shields.io/badge/Seon%20Consulting%20|%20Study%20Aboard%20Process%20|%20Web%20App-IELTSguru-teal)
+![E-commerce Development](https://img.shields.io/badge/ZEB%20|%20Pointcarre%20|%20E%20Commerce%20Development-Apoyar-skyblue)
+![Supportpod Freelance web portal development](https://img.shields.io/badge/Supportpod%20Freelance%20web%20portal%20Development-Apoyar-skyblue)
+![wordpress](https://img.shields.io/badge/ZelarSoft%20|%20Apoyar%20|%20IELTSguru%20|%20Wordpress%20Site%20Development-:-blue)
+![FlightBookingSystem](https://img.shields.io/badge/Voyager%20by%20Najm%20|%20Flight%20Booking%20System%20Development-TCIG-blue)
+![Filsoo](https://img.shields.io/badge/Filsoo%20|%20Bedding%20System%20Management-TCIG-blue)
+
+`I actively participated in the development of the above projects, starting from scratch`
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> Recent skills
 
@@ -239,28 +260,6 @@ Here are some ideas to get you started:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" /> Projects
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Loudspeaker.png" alt="Loudspeaker" width="25" height="25" /> Products I Have Worked On
-
-![life sciences product](<https://img.shields.io/badge/Life%20Sciences%20Product%20|%20(Document%20Managment%20)%20-Pharma%20|%20Confidential-blue>)
-![UI Global Components Development](https://img.shields.io/badge/UI%20Global%20Components%20Development|%20-Pharma%20|%20Confidential-blue)
-![Klusternetes web app Development](https://img.shields.io/badge/Klusternetes%20Web%20App%20Development-ZelarSoft-blue)
-![Doccept](https://img.shields.io/badge/Doccept%20|%20Document%20Management%20System-Kensium%20Solution-gray) ![ATS Secured](https://img.shields.io/badge/ATS%20Secured%20|%20Vendor%20Management%20System-Kensium%20Solution-gray)
-![E-commerce Development](https://img.shields.io/badge/Shoebacca%20|%20Dekra%20Lite%20|%20Shoe%20Sensation%20|%20B%20glowing%20|%20Rayallen%20|%20Silencershop%20|%20E%20Commerce%20Development-Kensium%20Solution-gray)
-![wordpress](https://img.shields.io/badge/Acer%20Motors%20|%20Cars%20buy%20and%20sell%20|%20Wordpress%20Site%20Development-Kensium%20Solution-gray)
-![SpaceWorksCRM](https://img.shields.io/badge/Space%20Works%20CRM%20-IELTSguru-teal)
-![(Hybrid Mobile App Development](https://img.shields.io/badge/IELTS%20|%20PTE%20|%20GRE%20|%20Spoken%20English%20|%20Exam%20Portal%20Hybrid%20Mobile/Web%20App%20Development-IELTSguru-teal)
-![IELTS CDT](https://img.shields.io/badge/IELTS%20CDT%20(Computer%20Delivered%20Test)%20Practice%20Tests%20|%20Web%20App-IELTSguru-teal)
-![PracticePTE](https://img.shields.io/badge/PracticePTE%20|%20PTE%20Practice%20Tests%20|%20Web%20App-IELTSguru-teal)
-![Seon consulting](https://img.shields.io/badge/Seon%20Consulting%20|%20Study%20Aboard%20Process%20|%20Web%20App-IELTSguru-teal)
-![E-commerce Development](https://img.shields.io/badge/ZEB%20|%20Pointcarre%20|%20E%20Commerce%20Development-Apoyar-skyblue)
-![Supportpod Freelance web portal development](https://img.shields.io/badge/Supportpod%20Freelance%20web%20portal%20Development-Apoyar-skyblue)
-![wordpress](https://img.shields.io/badge/ZelarSoft%20|%20Apoyar%20|%20IELTSguru%20|%20Wordpress%20Site%20Development-:-blue)
-![FlightBookingSystem](https://img.shields.io/badge/Voyager%20by%20Najm%20|%20Flight%20Booking%20System%20Development-TCIG-blue) 
-![Filsoo](https://img.shields.io/badge/Filsoo%20|%20Bedding%20System%20Management-TCIG-blue)
- 
-`I actively participated in the development of the above projects, starting from scratch`
 
 <!--
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" />  life sciences product (pharma)- `Confidential`
@@ -276,11 +275,10 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" />  ATS Secured - Vendor management system - `kensium solutions`
    -->
 
-<!-- 
+<!--
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="25" height="25" /> Mobile app and web portal -->
 
-
-<!-- 
+<!--
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> IELTS, PTE and GRE, Spoken English (Hybrid Mobile App Development) - `IELTSguru`
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> IELTS CDT (computer delivered test applications) - Online exam portal - `IELTSguru`
@@ -293,11 +291,11 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> IELTSguru website - IELTSguru
 Seon consulting - study aboard process app - IELTSguru -->
-<!-- 
+<!--
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Bags.png" alt="Shopping Bags" width="25" height="25" /> E-commerce & Website Development
 
   -->
-<!-- 
+<!--
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> E-commerce Development (Magento) - `ZEB - Fashion e-commerce`, `Pointcarre | Fashion e-commerce` - apoyar
 
