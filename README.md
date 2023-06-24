@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 # [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=RajaCodeArchitect&data=followers,repositories,stars,commits&theme=nautilus)](https://www.linkedin.com/in/adukani/)
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> Over 11 years of experience as an <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /> `Associate Architect` `Full Stack Developer` <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="20" height="20" /> .
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> As an accomplished professional with 11+ years of experience, I have thrived as an `Associate Architect` and `Full Stack Developer`, specializing in `front-end development` and `UI/UX design`. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" />
 
+
+<!-- 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> Specialize in `front-end development`, `UI/UX design`, and creating reusable component libraries.
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> proficient in technologies like `TypeScript`, `React`, `React Native`, `JavaScript`, `Storybook`, `Angular`, `Angular Material`, and `Airbnb style guide`.
@@ -37,9 +39,54 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> Strong passion for technology and effective collaboration skills.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> Committed to delivering quality results and staying updated with industry trends.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> Committed to delivering quality results and staying updated with industry trends. -->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rainbow.png" alt="Rainbow" width="25" height="25" /> My Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
+
+
+![JavaScript](<https://img.shields.io/badge/JavaScript-orange>)
+![TypeScript](<https://img.shields.io/badge/TypeScript-orange>)
+![React](<https://img.shields.io/badge/React-orange>)
+![Magento2](<https://img.shields.io/badge/Magento2-orange>)
+![React Native](<https://img.shields.io/badge/React%20Native-orange>)
+![Angular](<https://img.shields.io/badge/AngularJS-orange>)
+![Angular](<https://img.shields.io/badge/Angular%202%20to%208-orange>)
+![Storybook](<https://img.shields.io/badge/Storybook-orange>)
+![NodeJs](<https://img.shields.io/badge/NodeJS-orange>)
+![Express](<https://img.shields.io/badge/Express-orange>)
+![MongoDB](<https://img.shields.io/badge/MongoDB-orange>)
+![Firebase](<https://img.shields.io/badge/firebase-orange>)
+![PowerApps](<https://img.shields.io/badge/PowerApps-orange>)
+![strapi](<https://img.shields.io/badge/strapi-orange>)
+![Wordpress ](<https://img.shields.io/badge/Wordpress-orange>)
+![puppeteer](<https://img.shields.io/badge/puppeteer-orange>)
+![MicrosoftFluentUI](<https://img.shields.io/badge/Microsoft%20Fluent%20UI-white>)
+![MaterialUI](<https://img.shields.io/badge/Material%20UI-white>)
+![styled components](<https://img.shields.io/badge/Styled%20Components-white>)
+![bootstrap](<https://img.shields.io/badge/bootstrap-white>)
+![Angular Material](<https://img.shields.io/badge/Angular&20Material-white>)
+![CSS](<https://img.shields.io/badge/css-white>)
+![SCSS](<https://img.shields.io/badge/SCSS-white>)
+![Less](<https://img.shields.io/badge/less-white>)
+![HTML](<https://img.shields.io/badge/html-green>)
+![git](<https://img.shields.io/badge/git-green>)
+![ESLint](<https://img.shields.io/badge/ESLint-green>)
+![SonarLint](<https://img.shields.io/badge/SonarLint-green>)
+![AzureDevops](<https://img.shields.io/badge/AzureDevops-green>)
+![reactQuery](<https://img.shields.io/badge/ReactQuery-green>)
+![ReactHookForms](<https://img.shields.io/badge/ReactHookForms-green>)
+![GithubActions](<https://img.shields.io/badge/GithubActions-green>)
+![vsCode](<https://img.shields.io/badge/vsCode-green>)
+![Airbnb style guide](<https://img.shields.io/badge/Airbnb%20Style%20guide-green>)
+
+![Adobe XD](<https://img.shields.io/badge/Adobe%20XD-darkblue>)
+![Adobe Photoshop](<https://img.shields.io/badge/Adobe%20Photoshop-darkblue>)
+![Adobe illustrator](<https://img.shields.io/badge/Adobe%20illustrator-darkblue>)
+![Adobe PremierPro](<https://img.shields.io/badge/Adobe%20Premier%20pro-darkblue>)
+![Adobe after effects](<https://img.shields.io/badge/Adobe%20After%20effects-darkblue>)
+![Canva](<https://img.shields.io/badge/Canva-darkblue>)
+![cinema 4d](<https://img.shields.io/badge/cinema%204D-darkblue>)
+
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> Recent skills
 
@@ -194,14 +241,14 @@ Here are some ideas to get you started:
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" /> Projects
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Loudspeaker.png" alt="Loudspeaker" width="25" height="25" /> I have Worked on below Products
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Loudspeaker.png" alt="Loudspeaker" width="25" height="25" /> Products I Have Worked On
 
 ![life sciences product](<https://img.shields.io/badge/Life%20Sciences%20Product%20|%20(Document%20Managment%20)%20-Pharma%20|%20Confidential-blue>)
 ![UI Global Components Development](https://img.shields.io/badge/UI%20Global%20Components%20Development|%20-Pharma%20|%20Confidential-blue)
 ![Klusternetes web app Development](https://img.shields.io/badge/Klusternetes%20Web%20App%20Development-ZelarSoft-blue)
-![Doccept](https://img.shields.io/badge/Doccept%20|%20Document%20Management%20System-Kensium%20Solution-yellow) ![ATS Secured](https://img.shields.io/badge/ATS%20Secured%20|%20Vendor%20Management%20System-Kensium%20Solution-yellow)
-![E-commerce Development](https://img.shields.io/badge/Shoebacca%20|%20Dekra%20Lite%20|%20Shoe%20Sensation%20|%20B%20glowing%20|%20Rayallen%20|%20Silencershop%20|%20E%20Commerce%20Development-Kensium%20Solution-yellow)
-![wordpress](https://img.shields.io/badge/Acer%20Motors%20|%20Cars%20buy%20and%20sell%20|%20Wordpress%20Site%20Development-Kensium%20Solution-yellow)
+![Doccept](https://img.shields.io/badge/Doccept%20|%20Document%20Management%20System-Kensium%20Solution-orange) ![ATS Secured](https://img.shields.io/badge/ATS%20Secured%20|%20Vendor%20Management%20System-Kensium%20Solution-orange)
+![E-commerce Development](https://img.shields.io/badge/Shoebacca%20|%20Dekra%20Lite%20|%20Shoe%20Sensation%20|%20B%20glowing%20|%20Rayallen%20|%20Silencershop%20|%20E%20Commerce%20Development-Kensium%20Solution-orange)
+![wordpress](https://img.shields.io/badge/Acer%20Motors%20|%20Cars%20buy%20and%20sell%20|%20Wordpress%20Site%20Development-Kensium%20Solution-orange)
 ![SpaceWorksCRM](https://img.shields.io/badge/Space%20Works%20CRM%20-IELTSguru-teal)
 ![(Hybrid Mobile App Development](https://img.shields.io/badge/IELTS%20|%20PTE%20|%20GRE%20|%20Spoken%20English%20|%20Exam%20Portal%20Hybrid%20Mobile/Web%20App%20Development-IELTSguru-teal)
 ![IELTS CDT](https://img.shields.io/badge/IELTS%20CDT%20(Computer%20Delivered%20Test)%20Practice%20Tests%20|%20Web%20App-IELTSguru-teal)
