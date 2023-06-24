@@ -250,8 +250,9 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> e-commerce design
  
- <img src="images/exam.png" alt="exam" width="650" /> 
- <img src="images/health.png" alt="donate" width="650" /> 
+![exam](images/exam.png)
+
+![health](images/health.png)
 
 
 
