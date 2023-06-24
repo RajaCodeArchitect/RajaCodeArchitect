@@ -64,7 +64,6 @@ Here are some ideas to get you started:
 ![Canva](https://img.shields.io/badge/Canva-gray)
 ![cinema 4d](https://img.shields.io/badge/cinema%204D-gray)
 
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" /> Projects
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Loudspeaker.png" alt="Loudspeaker" width="25" height="25" /> Products I Have Worked On
@@ -237,7 +236,6 @@ Here are some ideas to get you started:
 </tr> 
 </table>
 
-
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Artist.png" alt="Artist" width="25" height="25" /> User Experience
 
 `planning and sketching, wireframes and prototype`
@@ -250,70 +248,14 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> e-commerce design
 
+---
+ 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RajaCodeArchitect&show_icons=true&locale=en&theme=dark&layout=compact" alt="RajaCodeArchitect" />
+ 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=RajaCodeArchitect&show_icons=true&theme=dark&locale=en" alt="RajaCodeArchitect" />
 
-<!--
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" />  life sciences product (pharma)- `Confidential`
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" />  UI Global Components Development (pharma)-  `Confidential`
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" />  Klusternetes web app Development- `zelar product`
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" />  CRM - employee management - `IELTSguru`
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" />  Doccept - Document management system - `kensium solutions`
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" />  ATS Secured - Vendor management system - `kensium solutions`
-   -->
-
-<!--
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="25" height="25" /> Mobile app and web portal -->
-
-<!--
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> IELTS, PTE and GRE, Spoken English (Hybrid Mobile App Development) - `IELTSguru`
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> IELTS CDT (computer delivered test applications) - Online exam portal - `IELTSguru`
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> PracticePTE - Exam portal - `IELTSguru`
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> Filsoo - bedding system management - `TCIG`
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> Voyager by Najm - flight booking system `TCIG`
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> IELTSguru website - IELTSguru
-Seon consulting - study aboard process app - IELTSguru -->
-<!--
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Bags.png" alt="Shopping Bags" width="25" height="25" /> E-commerce & Website Development
-
-  -->
-<!--
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> E-commerce Development (Magento) - `ZEB - Fashion e-commerce`, `Pointcarre | Fashion e-commerce` - apoyar
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> E-commerce Magento Development (Magento)- `Dekra-Lite`, `shoebacca` `Shoe Sensation`, `B-glowing`, `Rayallen`, `Silencershop`, - kensium solutions
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> Supportpod Freelance web portal development - `apoyar`
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> wordpress Website Development -`zelar site` , `apoyar site`
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> Cars buy and sell, maruti delar, Wordpress site - `Acer Motors` - `kensium`
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Artist.png" alt="Artist" width="25" height="25" /> User Experience
-
-`planning and sketching, wireframes and prototype`
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> Fitness app design
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> Exam portal - web and mobile app design
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> freelance app design
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> e-commerce design -->
-
-<!-- [![RajaCodeArchitect's github stats](https://github-readme-stats.vercel.app/api?username=RajaCodeArchitect&theme=blue-gray)](https://github.com/RajaCodeArchitect/github-readme-stats) -->
 
 ## &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Statistics
-
-<br/>
 
 <div align="center">
 
