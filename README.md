@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ![Magento2](<https://img.shields.io/badge/Magento2-gray>)
 ![React Native](<https://img.shields.io/badge/React%20Native-gray>)
 ![Angular](<https://img.shields.io/badge/AngularJS-gray>)
-![Angular](<https://img.shields.io/badge/Angular%202%20to%208-gray>)
+![Angular](<https://img.shields.io/badge/Angular-gray>)
 ![Storybook](<https://img.shields.io/badge/Storybook-gray>)
 ![NodeJs](<https://img.shields.io/badge/NodeJS-gray>)
 ![Express](<https://img.shields.io/badge/Express-gray>)
