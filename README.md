@@ -243,6 +243,7 @@ Here are some ideas to get you started:
 </tr> 
 </table>
 
+<!--
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Artist.png" alt="Artist" width="25" height="25" /> User Experience
 
 `planning and sketching, wireframes and prototype`
@@ -260,7 +261,7 @@ Here are some ideas to get you started:
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RajaCodeArchitect&show_icons=true&locale=en&theme=dark&layout=compact" alt="RajaCodeArchitect" />
  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=RajaCodeArchitect&show_icons=true&theme=dark&locale=en" alt="RajaCodeArchitect" />
-
+-->
 
 ## &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Statistics
 
