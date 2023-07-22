@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning : azure cloud
 - 💬 Ask me about  web development techniques ,
 - 📫 How to reach me: [Linkdin](https://www.linkedin.com/in/adukani/)
-
+- 
+<!--
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rainbow.png" alt="Rainbow" width="30" height="30" /> My Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="36" height="36" />
 
@@ -92,7 +93,7 @@ Here are some ideas to get you started:
 ![Filsoo](https://img.shields.io/badge/Filsoo%20|%20Bedding%20System%20Management-TCIG-blue)
 
 `I actively participated in the development of the above projects, starting from scratch`
-
+-->
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> Recent skills
 
 <table>
