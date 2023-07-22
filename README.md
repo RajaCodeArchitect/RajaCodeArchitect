@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on React / Nextjs / Typescript/ + SupaBase
 - 🌱 I’m currently learning : azure cloud
 - 💬 Ask me about  web development techniques ,
-- 📫 How to reach me: [Linkdin](https://www.linkedin.com/in/adukani/)
+- 📫 How to reach me: [Linkdin](https://www.linkedin.com/in/adukani/) **raj.adukani@gmail.com**
 
 <!--
 
