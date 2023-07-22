@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 pronouns: ...
 - ⚡ Fun fact: ...
+-  [![Follow me on GitHub](https://img.shields.io/github/followers/RajaCodeArchitect?label=Follow&style=social)](https://github.com/RajaCodeArchitect)
 -->
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=40&duration=1500&pause=500&color=cyan&width=1000&height=70&lines=Namasthe!🙏;Nice+to+Meet+you...%F0%9F%98%83%09;I'm+Rajashekhar+Adukani😎;Associate+Architect👨‍💻;A+Gateway+to+My+Digital+Realm🌍;Welcome+to+My+GitHub+Oasis+👋)](https://www.linkedin.com/in/adukani/)
@@ -23,7 +24,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning : azure cloud
 - 💬 Ask me about  web development techniques ,
 - 📫 How to reach me: [Linkdin](https://www.linkedin.com/in/adukani/)
--  [![Follow me on GitHub](https://img.shields.io/github/followers/RajaCodeArchitect?label=Follow&style=social)](https://github.com/RajaCodeArchitect)
+
 <!--
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rainbow.png" alt="Rainbow" width="30" height="30" /> My Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="36" height="36" />
