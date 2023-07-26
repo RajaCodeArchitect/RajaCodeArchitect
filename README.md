@@ -263,7 +263,7 @@ Here are some ideas to get you started:
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RajaCodeArchitect&show_icons=true&locale=en&theme=dark&layout=compact" alt="RajaCodeArchitect" />
  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=RajaCodeArchitect&show_icons=true&theme=dark&locale=en" alt="RajaCodeArchitect" />
--->
+
 
 ## &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Statistics
 
@@ -281,7 +281,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/RajaCodeArchitect/github-readme-activity-graph#gh-dark-mode-only">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajaCodeArchitect&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
-</p>
+</p>-->
 <p align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Peacock.png" alt="Peacock" width="100" height="100" />
 </p>
