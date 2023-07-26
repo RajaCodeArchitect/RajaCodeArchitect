@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> As an accomplished professional with 11+ years of experience, I have thrived as an `Associate Architect` and `Full Stack Developer`, specializing in `front-end development` and `UI/UX design`. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" />
 
-- 🔭 I’m currently working on React / Nextjs / Typescript/ + SupaBase
-- 🌱 I’m currently learning : azure cloud
+- 🔭 I’m currently working on React / Nextjs / Typescript/ + SupaBase / Gen AI (FilesGPT)
+- 🌱 I’m currently learning : Azure cloud, Azure AI
 - 💬 Ask me about  web development techniques ,
 - 📫 How to reach me: [Linkdin](https://www.linkedin.com/in/adukani/)
 - **raj.adukani@gmail.com**
