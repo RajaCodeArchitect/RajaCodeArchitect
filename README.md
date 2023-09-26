@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning : Azure cloud, Azure AI
 - 💬 Ask me about  web development techniques ,
 - 📫 How to reach me: [Linkdin](https://www.linkedin.com/in/adukani/)
-- **raj.adukani@gmail.com**
+
 
 <!--
 
